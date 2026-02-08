@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Back to Life",
+  "base_artist": "Ayaka Hirahara",
+  "createdAt": "2026-02-08T07:07:24.532081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/02_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me) - Club Mix",
+      "artist": "Soul II Soul feat. Caron Wheeler",
+      "has_synced": false,
+      "path": "select/03_Back_To_Life_(However_Do_You_Want_Me)_-_Club_Mix_Soul_II_Soul_feat._Caron_Wheeler.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back to Life",
+      "artist": "Automatic Loveletter",
+      "has_synced": true,
+      "path": "select/04_Back_to_Life_Automatic_Loveletter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back to Life",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": false,
+      "path": "select/05_Back_to_Life_The_Cooltrane_Quartet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Cooltrane Quartet, The",
+      "has_synced": false,
+      "path": "select/06_Back_To_Life_Cooltrane_Quartet,_The.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Back To Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/07_Love_Me_Back_To_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back to Life (However Do You Want Me) [feat. Caron Wheeler]",
+      "artist": "Soul II Soul feat. Caron Wheeler",
+      "has_synced": true,
+      "path": "select/08_Back_to_Life_(However_Do_You_Want_Me)_[feat._Caron_Wheeler]_Soul_II_Soul_feat._Caron_Wheeler.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me) (feat. Caron Wheeler)",
+      "artist": "Soul II Soul",
+      "has_synced": true,
+      "path": "select/09_Back_To_Life_(However_Do_You_Want_Me)_(feat._Caron_Wheeler)_Soul_II_Soul.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coming Back to Life",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/10_Coming_Back_to_Life_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BACK TO LIFE",
+      "artist": "3OH!3",
+      "has_synced": true,
+      "path": "select/11_BACK_TO_LIFE_3OH!3.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Taming of the Hands That Came Back to Life",
+      "artist": "Sunset Rubdown",
+      "has_synced": true,
+      "path": "select/12_The_Taming_of_the_Hands_That_Came_Back_to_Life_Sunset_Rubdown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Coming Back To Life",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/13_Coming_Back_To_Life_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back to Life",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/14_Back_to_Life_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back to Life",
+      "artist": "Vanessa Carlton",
+      "has_synced": false,
+      "path": "select/15_Back_to_Life_Vanessa_Carlton.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BACK TO LIFE (TC/TC)",
+      "artist": "twocolors feat. Kairos Grove",
+      "has_synced": true,
+      "path": "select/16_BACK_TO_LIFE_(TC_TC)_twocolors_feat._Kairos_Grove.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BACK TO LIFE (TC/TC)",
+      "artist": "twocolors, Kairos Grove",
+      "has_synced": true,
+      "path": "select/17_BACK_TO_LIFE_(TC_TC)_twocolors,_Kairos_Grove.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul, Caron Wheeler",
+      "has_synced": true,
+      "path": "select/18_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul,_Caron_Wheeler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back to Life",
+      "artist": "平原 綾香",
+      "has_synced": false,
+      "path": "select/pl_01_Back_to_Life_平原_綾香.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Back to Life",
+      "artist": "平原 綾香",
+      "has_synced": false,
+      "path": "select/pl_02_Back_to_Life_平原_綾香.txt"
+    }
+  ]
+}
